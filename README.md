@@ -19,6 +19,8 @@ The idea: this should be quick for people, but expensive for bots if they must c
 
 Read [documentation.md](documentation.md) for the full idea, seeds, SHA-256, and why this might make bot solving harder.
 
+It is possible to precompute results for a known game design, but there could be some strategy to prevent that, that i am going to look into.
+
 ## Run It
 
 ```sh
