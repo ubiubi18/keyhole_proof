@@ -2,7 +2,7 @@
 
 **Keyhole Proof** is a CAPTCHA and proof-of-human-work experiment built around fast 3D spatial judgment. The playable prototype is called **3D Keyhole Snap Judgment**.
 
-![Keyhole Proof easy, medium, and hard modes](docs/keyhole-proof-modes.png)
+![Keyhole Proof easy, medium, and hard modes rotating](docs/keyhole-proof-modes.gif)
 
 The hypothesis is simple: some visual-spatial tasks may be cheap for human perception but expensive for automated solvers at scale. If each challenge can be generated from a large seed space and solved by humans in a few seconds, then an attacker may need enough model calls, search, or custom geometry reasoning that solving becomes economically unattractive.
 
