@@ -6,7 +6,7 @@ You see a 3D block shape. Pick the 2D hole it could fit through.
 
 The idea: this should be quick for people, but expensive for bots if they must calculate many shapes and rotations.
 
-![Keyhole example](docs/ig_0ee9df7b94603d3b0169ef0495525081919e8d40955c8e77dc.png)
+
 ![Keyhole Proof easy, medium, and hard modes rotating](docs/keyhole-proof-modes.gif)
 
 ## Play
