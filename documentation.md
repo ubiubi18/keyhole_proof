@@ -68,7 +68,7 @@ Instead, it uses a deterministic SHA-256 counter-stream PRNG. That means the puz
 This is important for proof-of-human-work experiments:
 
 - random-looking puzzles are generated
-- the server can reproduce them
+- the server (or other players in a decentralised p2p networks) can reproduce them
 - the same seed always gives the same result
 - the seed space is too large to casually precalculate
 
