@@ -55,7 +55,7 @@ The app uses a 64-character SHA-256 hex seed.
 
 SHA-256 is a hash function. A hash turns input into a long fixed-size code. A tiny input change creates a very different code.
 
-In this project, the seed helps make the challenge space very large. That matters because attackers should not be able to precompute a small list of puzzles and answers.
+In this project, the seed helps make the challenge space very large. That matters because attackers should not be able to precompute a small list of puzzles and answers, if we develop this idea to a state where so many shapes are possible that they cant be precomputed for pure pattern recognition like early chess bots, but would require realtime AI reasoning and computation.
 
 If a user types normal text as a seed, the app first hashes it into a SHA-256 seed.
 
